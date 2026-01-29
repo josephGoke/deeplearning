@@ -1,0 +1,6 @@
+data/
+pytorch-tutorial/
+venv
+autograd.ipynb
+NeuralNetwork.ipynb
+_pycache_/

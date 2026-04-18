@@ -4,3 +4,5 @@ venv
 autograd.ipynb
 NeuralNetwork.ipynb
 _pycache_/
+classification
+utils.py

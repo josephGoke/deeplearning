@@ -28,3 +28,11 @@ def time_series_split(X, y, train_size: float):
     print(f'Testing Samples: {len(X_test)} (last {(1-train_size)*100:.0f}% of data) ')
 
     return X_train, X_test, y_train, y_test
+
+
+
+
+
+
+def wasserstein_dist_1d(u,v u_weights=None, v_weights=None):
+    
